@@ -1,0 +1,17 @@
+*******************
+   Requirements
+*******************
+- 6 story path options (32 choices if 2 choices availible every time)
+-error message
+-ascii art
+-introduction goodbye complete
+
+
+**********************************************************
+
+prompt 1:
+	Thunder cracks across the sky as the highwaymen cicle the cart you are held in.  There swords gleam like their smiles, both dripping with anticipation...and is that blood? The warden who holds the keys, both literally and figurativly to your excape isn't scared. The two mercinaries he's hired just for this circumstance are readying their weapons with a silent calculivity that reverberates fear. The battle is set and the time for talking is over. You look down. Your shackles are heavy, which could work to your advantage. You can see the shadow of a highwayman on the tarp that covers the cart you ride in. With any luck at all you could jump out and surprise him, giving the warden an advantage. However, both the warden and the mercinaries have their back to you, and a kniving chap like yourself could be freed by the highwaymen if you gave assistance...
+
+-protect the cart
+
+-ambush a mercinary
