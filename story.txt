@@ -14,7 +14,7 @@ prompt 1:
 
 -protect the cart
 
--ambush a mercinary
+-ambush the warden
 
 
 
@@ -32,13 +32,6 @@ prompt 2-protect the cart
 Your resolve hardens. It's time to help the warden, and the mercinaries since they are law abiding citizens.
 With the poise of a sicly cat, you lauch yourself through the canvas...Directly onto the head of a passing highwayman! With the grase of a sicly person still bound in a set of shackles and a modest amount of chains you conk the highwayman on the head. 
 
-The loss of a member is enough to make the highwaymen run away, they relied on numbers and ambushes, a fair fight isn't for them!
-The warden approaches you his face looks surprised, maybe youll get your freedom? But what if he throws you back in the cart?!
-
--Steal the key to your shackles
-
--Wait and see what happens
-
 
 
                          \\ /                  
@@ -49,11 +42,37 @@ The warden approaches you his face looks surprised, maybe youll get your freedom
 
 
 
+The loss of a member is enough to make the highwaymen run away, they relied on numbers and ambushes, a fair fight isn't for them!
+The warden approaches you his face looks surprised, maybe youll get your freedom? But what if he throws you back in the cart?!
 
+-Steal the key to your shackles
+
+-Wait and see what happens
 
 ****************************************************************************************
-prompt 2-ambush the mercinaries
+prompt 2-ambush the warden
 ****************************************************************************************
+
+
+An evil smile cracks aross your dirty face. It's payback time agains the system that put you in these chains.
+With deviant glee you creep twords the warden, the dragging of your chains on the cart floor is a masked by the initial skirmishes of the highwaymen and the mercenaries, the warden completely engrossed in the battle. Suddenly from the corner of you eye you see a highwayman, probably the one the saw through the canvas cover of the cart. You make eye contact and there is an understanding between you and him. Carelfully you get closer and closer to the warden. When you are within range. You jam your sholder into the wardens back pushing him off the front seat of the cart and directly to the feet of the highway man you made eye contact with. The wardens death is painless and swift, not making a sound. The mercenerise are still fighting, not seeing the highwayman ambush the warden. They are completely exposed to an ambush. You could yell out to them, warning them of the danger. After all, they didn't see you kill the warden. OR, you could remain silent and watch the battle conclude. 
+
+
+
+                          o
+                         -|-                            |    |
+                          xxxxxx                        |    |
+  o                       ======        o     o      o /  o /  
+ \x\___    __   j====-----\====/    __/m/ __/m/      |\x\ |\x\  
+ /\    o/--__     |  |    0     0      /\    /\        /\    /\  
+
+
+
+
+
+-warn the mercenaries
+
+-shut your mouth
 
 
 
