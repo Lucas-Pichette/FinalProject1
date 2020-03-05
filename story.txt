@@ -15,3 +15,67 @@ prompt 1:
 -protect the cart
 
 -ambush a mercinary
+
+
+
+
+                               |    |
+      o  /   xxxxxx            |    |
+     -|-/    ======         o /  o /  
+   j====-----\====/        |\x\ |\x\  
+    |  |    0      0         /\    /\  
+
+
+****************************************************************************************
+prompt 2-protect the cart
+****************************************************************************************
+Your resolve hardens. It's time to help the warden, and the mercinaries since they are law abiding citizens.
+With the poise of a sicly cat, you lauch yourself through the canvas...Directly onto the head of a passing highwayman! With the grase of a sicly person still bound in a set of shackles and a modest amount of chains you conk the highwayman on the head. 
+
+The loss of a member is enough to make the highwaymen run away, they relied on numbers and ambushes, a fair fight isn't for them!
+The warden approaches you his face looks surprised, maybe youll get your freedom? But what if he throws you back in the cart?!
+
+-Steal the key to your shackles
+
+-Wait and see what happens
+
+
+
+                         \\ /                  
+      o  /   xxxxxx       --\-o                
+     -|-/    ======         /                 >> o   
+   j====-----\====/            __    //    >>  //x/\  
+    |  |    0      0           __-\x\-o      >> /\  
+
+
+
+
+
+****************************************************************************************
+prompt 2-ambush the mercinaries
+****************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
