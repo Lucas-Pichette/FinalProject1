@@ -10,7 +10,16 @@
 **********************************************************
 
 prompt 1:
-	Thunder cracks across the sky as the highwaymen circle the cart you are held in.  Their swords gleam like their smiles, both dripping with anticipation...and is that blood? The warden who holds the keys, both literally and figuratively to your escape isn't scared. The two mercenaries he's hired just for this circumstance are readying their weapons with silent calculability that reverberates fear. The battle is set and the time for talking is over. You look down. Your shackles are heavy, which could work to your advantage. You can see the shadow of a highwayman on the tarp that covers the cart you ride in. With any luck at all, you could jump out and surprise him, giving the warden an advantage. However, both the warden and the mercenaries have their back to you, and a konniving chap like yourself could be freed by the highwaymen if you gave assistance...
+	Thunder cracks across the sky as the highwaymen circle the cart you are held in.  
+	Their swords gleam like their smiles, both dripping with anticipation...and is that blood? 
+	The warden who holds the keys, both literally and figuratively to your escape isn't scared. 
+	The two mercenaries he's hired just for this circumstance are readying their weapons with 
+	silent calculability that reverberates fear. The battle is set and the time for talking is over. 
+	You look down. Your shackles are heavy, which could work to your advantage. 
+	You can see the shadow of a highwayman on the tarp that covers the cart you ride in. 
+	With any luck at all, you could jump out and surprise him, giving the warden an advantage. 
+	However, both the warden and the mercenaries have their back to you, 
+	and a konniving chap like yourself could be freed by the highwaymen if you gave assistance...
 -protect the cart
 
 -ambush the warden
@@ -29,7 +38,9 @@ prompt 1:
 prompt 2-protect the cart
 ****************************************************************************************
 Your resolve hardens. It's time to help the warden and the mercenaries since they are law-abiding citizens.
-With the poise of a sickly cat, you launch yourself through the canvas...Directly onto the head of a passing highwayman! With the grace of a sickly person still bound in a set of shackles and a modest amount of chains, you conk the highwayman on the head. 
+With the poise of a sickly cat, you launch yourself through the canvas...Directly onto the head of a passing highwayman! 
+With the grace of a sickly person still bound in a set of shackles and a modest amount of chains, 
+you conk the highwayman on the head. 
 
 
 
@@ -55,7 +66,8 @@ prompt 2-ambush the warden
 
 An evil smile cracks across your dirty face.
  It's payback time against the system that put you in these chains.
-With deviant glee you creep towards the warden, the dragging of your chains on the cart floor is masked by the initial skirmishes of the highwaymen and the mercenaries, the warden completely engrossed in the battle.
+With deviant glee you creep towards the warden, the dragging of your chains on the cart floor is masked by the initial 
+skirmishes of the highwaymen and the mercenaries, the warden completely engrossed in the battle.
  Suddenly from the corner of your eye, you see a highwayman, probably the one the saw through the canvas cover of the cart.
  You make eye contact and there is an understanding between you and him.
  Carefully you get closer and closer to the warden. When you are within range.
