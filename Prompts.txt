@@ -150,8 +150,84 @@ prompt 3- warn the mercenaries
 
 
 You decide you have done enough damage to human lives and yell out to warn the mercenaries.
- You muster all of your sickly strength to shout "run away" at the mercenaries.
- They glance back form their battles and see a warden collapsed on the ground, you stand where he stood.
- It doesn't take a genius to understand what happened, but 
+You muster all of your sickly strength to shout "run away" at the mercenaries.
+They glance back form their battles and see a warden collapsed on the ground, you stand where he stood.
+It doesn't take a genius to understand what happened, but the mercs are still thankful.
+They run off into the woods.
+It looks like the highwayman who assisted in killing the warden is dripping with rage.
+He is walking twords you. 
+He looks very angry.
+It looks like you only have two options since fighting is out of the questions.
+
+Do you...
+
+Run away in your shackles
+
+Wait for him to reach you
 
 
+****************************************************************************************
+prompt 3- don't warn the mercenaries
+****************************************************************************************
+
+If you're going to be bad might as well be the worst right?
+You watch the highwayman who killed the warden circle the mercenaries and make quick work of them.
+The highwayman turns and approaches you.
+He has a deviant glee on your face.
+There is something unnerving about it.
+
+Do you...
+Run away in your shackles
+Wait for him to reach you
+
+****************************************************************************************
+prompt 4- Unlock your shackles and try to excape
+****************************************************************************************
+
+With a smooth click you feel your shackles pop open.
+Your sore wrists feel tender where the chains used to be and you cant help but rub them.
+Your eyes glance around.
+You see supplies that could be used for your excape.
+You could take more than you need in hopes that it cripples the wardens attempts to find you.
+You could also take just what you need to survive.
+
+-starve search party
+-take what you need
+
+****************************************************************************************
+prompt 4- wait when the group falls asleep
+****************************************************************************************
+
+With key in hand you sit there, contemplating life and your decicions. 
+Maybe you belive that by doing nothing you are paying your dues to society.
+Maybe you just think that you wont make it.
+Regardless, nothing happens and you just sit looking at the stars until morning.
+The warden wakes up and is shocked that you are still around.
+He states that he knew you took the key and was giving you the option to excape the previous night.
+He glances at the still asleep mercenaries. 
+"There is still an opportunity to do so" he wispers, his eyes looking into the distance.
+He points to a sack of supplies he left out.
+It seems like he wants you to take it and run.
+
+Do you excape 
+
+Or stay
+
+****************************************************************************************
+prompt 4- try to steal the key from the sleeping warden
+****************************************************************************************
+
+You creep up to the sleeping warden.
+your heartbeat is the only thing you can hear as you get closer and closer.
+You can hear their breath.
+You hear a sudden inhale from somewhere in the group. 
+Have your steps awoken someone?
+what do you do?
+
+stick to the plan
+
+walk back carefully holding your shackles to prevent a sound
+
+****************************************************************************************
+prompt 4- 
+****************************************************************************************
