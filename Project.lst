@@ -1,4 +1,4 @@
-Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/03/20 11:38:00
+Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/06/20 08:39:24
 !FinalProject1 (FinalProject1.asm			     Page 1 - 1
 
 
@@ -20,12 +20,14 @@ Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/03/20 11:38:00
 				;       the program.
 
 				; Requirements:
-				;   1) 
+				;   1) There needs to be ascii art for whatever reason
+				;   2) There should be at least one procedure
+				;   3) At least 2-deep nested storyline. 
 
 				; Notes:
 				;   1) This is a comment. We can communicate big ideas here, or even just
 				;		smaller questions.
-
+				;   2) Story setting: Doesn't matter, we just need to have one.s
 
 
 				INCLUDE Irvine32.inc
@@ -83,6 +85,9 @@ Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/03/20 11:38:00
 	   2C 20 00
  0000006D 47 6F 6F 64 62	sGoodbye        BYTE        "Goodbye, ",0
 	   79 65 2C 20 00
+
+
+
  00000077  00000014 [		sName           BYTE        20      DUP(0)
 	    00
 	   ]
@@ -96,45 +101,73 @@ Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/03/20 11:38:00
  00000000			.code
 				;==============================================================================;
  00000000			main PROC
+ 00000000  68 00000077 R	    push    OFFSET sName
+ 00000005  68 00000065 R	    push    OFFSET sGreetings
+ 0000000A  68 0000004A R	    push    OFFSET sPromptForName
+ 0000000F  68 00000021 R	    push    OFFSET sAuthor
+ 00000014  68 00000000 R	    push    OFFSET sTitle
+ 00000019  E8 00000016		    call    Introduction
 
-				; FORMAT:
-				; opcode    op1, op2        source
- 00000000			Introduction:
- 00000000  BA 00000000 R	    mov     EDX, OFFSET     sTitle
- 00000005  E8 00000000 E	    call    WriteString
- 0000000A  E8 00000000 E	    call    Crlf
+ 0000001E  68 00000077 R	    push    OFFSET sName
+ 00000023  68 0000006D R	    push    OFFSET sGoodbye
+ 00000028  E8 0000004F		    call    Goodbye
 
- 0000000F  BA 00000021 R	    mov     EDX, OFFSET     sAuthor
- 00000014  E8 00000000 E	    call    WriteString
- 00000019  E8 00000000 E	    call    Crlf
-
- 0000001E  BA 0000004A R	    mov     EDX, OFFSET     sPromptForName
- 00000023  E8 00000000 E	    call    WriteString
- 00000028  E8 00000000 E	    call    Crlf
-
- 0000002D  BA 00000065 R	    mov     EDX, OFFSET     sGreetings
- 00000032  E8 00000000 E	    call    WriteString
-				    
- 00000037  BA 00000077 R	    mov     EDX, OFFSET     sName
- 0000003C  B9 00000014		    mov     ECX,            20
- 00000041  E8 00000000 E	    call    ReadString
- 00000046  A3 0000008B R	    mov     dNameL,         EAX
- 0000004B			Goodbye:
- 0000004B  E8 00000000 E	    call    Crlf
- 00000050  BA 0000006D R	    mov     EDX, OFFSET     sGoodbye
- 00000055  E8 00000000 E	    call    WriteString
- 0000005A  BA 00000077 R	    mov     EDX, OFFSET     sName
- 0000005F  E8 00000000 E	    call    WriteString
- 00000064  E8 00000000 E	    call    Crlf
 				    exit
- 00000069  6A 00	   *	    push   +000000000h
- 0000006B  E8 00000000 E   *	    call   ExitProcess
+ 0000002D  6A 00	   *	    push   +000000000h
+ 0000002F  E8 00000000 E   *	    call   ExitProcess
 
- 00000070			main ENDP
+ 00000034			main ENDP
+
+ 00000034			Introduction PROC
+ 00000034  55			    push    EBP
+ 00000035  8B EC		    mov     EBP,            ESP
+
+ 00000037  8B 55 08		    mov     EDX,            [EBP+8]
+ 0000003A  E8 00000000 E	    call    WriteString
+ 0000003F  E8 00000000 E	    call    Crlf
+
+ 00000044  8B 55 0C		    mov     EDX,            [EBP+12]
+ 00000047  E8 00000000 E	    call    WriteString
+ 0000004C  E8 00000000 E	    call    Crlf
+
+ 00000051  8B 55 10		    mov     EDX,            [EBP+16]
+ 00000054  E8 00000000 E	    call    WriteString
+ 00000059  E8 00000000 E	    call    Crlf
+
+ 0000005E  8B 55 14		    mov     EDX,            [EBP+20]
+ 00000061  E8 00000000 E	    call    WriteString
+				    
+ 00000066  8B 55 18		    mov     EDX,            [EBP+24]
+ 00000069  B9 00000014		    mov     ECX,            20
+ 0000006E  E8 00000000 E	    call    ReadString
+ 00000073  A3 0000008B R	    mov     dNameL,         EAX
+
+ 00000078  5D			    pop     EBP
+
+ 00000079  C2 0014		    ret     20
+ 0000007C			Introduction ENDP
+
+ 0000007C			Goodbye PROC
+ 0000007C  55			    push    EBP
+ 0000007D  8B EC		    mov     EBP,            ESP
+
+ 0000007F  E8 00000000 E	    call    Crlf
+ 00000084  8B 55 08		    mov     EDX,            [EBP+8]
+ 00000087  E8 00000000 E	    call    WriteString
+ 0000008C  8B 55 0C		    mov     EDX,            [EBP+12]
+ 0000008F  E8 00000000 E	    call    WriteString
+ 00000094  E8 00000000 E	    call    Crlf
+
+ 00000099  5D			    pop     EBP
+
+ 0000009A  C2 0008		    ret     8
+ 0000009D			Goodbye ENDP
+
 				END main
+
 				;==============================================================================;
 				;=-=END=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
-Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/03/20 11:38:00
+Microsoft (R) Macro Assembler Version 14.24.28316.0	    03/06/20 08:39:24
 !FinalProject1 (FinalProject1.asm			     Symbols 2 - 1
 
 
@@ -229,7 +262,7 @@ Segments and Groups:
 FLAT . . . . . . . . . . . . . .	GROUP
 STACK  . . . . . . . . . . . . .	32 Bit	 00001000 Para	  Stack	  'STACK'	 
 _DATA  . . . . . . . . . . . . .	32 Bit	 0000008F Para	  Public  'DATA'	
-_TEXT  . . . . . . . . . . . . .	32 Bit	 00000070 Para	  Public  'CODE'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000009D Para	  Public  'CODE'	
 
 
 Procedures, parameters, and locals:
@@ -269,12 +302,14 @@ GetStdHandle . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External
 GetSystemTime  . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 GetTextColor . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 GetTickCount . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+Goodbye  . . . . . . . . . . . .	P Near	 0000007C _TEXT	Length= 00000021 Public STDCALL
 Gotoxy . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 HeapAlloc  . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 HeapCreate . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 HeapDestroy  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 HeapFree . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 HeapSize . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+Introduction . . . . . . . . . .	P Near	 00000034 _TEXT	Length= 00000048 Public STDCALL
 IsDigit  . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 LocalFree  . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 MessageBoxA  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
@@ -336,9 +371,7 @@ WriteStackFrame  . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External
 WriteString  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 WriteToFile  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
 WriteWindowsMsg  . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
-main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000070 Public STDCALL
-  Introduction . . . . . . . . .	L Near	 00000000 _TEXT	
-  Goodbye  . . . . . . . . . . .	L Near	 0000004B _TEXT	
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000034 Public STDCALL
 printf . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External C
 scanf  . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External C
 wsprintfA  . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External C
