@@ -53,8 +53,17 @@ prompt 2-ambush the warden
 ****************************************************************************************
 
 
-An evil smile cracks across your dirty face. It's payback time against the system that put you in these chains.
-With deviant glee you creep towards the warden, the dragging of your chains on the cart floor is masked by the initial skirmishes of the highwaymen and the mercenaries, the warden completely engrossed in the battle. Suddenly from the corner of your eye, you see a highwayman, probably the one the saw through the canvas cover of the cart. You make eye contact and there is an understanding between you and him. Carefully you get closer and closer to the warden. When you are within range. You jam your shoulder into the wardens back pushing him off the front seat of the cart and directly to the feet of the highwayman you made eye contact with. The warden's death is painless and swift, not making a sound. The mercenaries are still fighting, not seeing the highwayman ambush the warden. They are completely exposed to an ambush. You could yell out to them, warning them of the danger. After all, they didn't see you kill the warden. OR, you could remain silent and watch the battle conclude. 
+An evil smile cracks across your dirty face.
+ It's payback time against the system that put you in these chains.
+With deviant glee you creep towards the warden, the dragging of your chains on the cart floor is masked by the initial skirmishes of the highwaymen and the mercenaries, the warden completely engrossed in the battle.
+ Suddenly from the corner of your eye, you see a highwayman, probably the one the saw through the canvas cover of the cart.
+ You make eye contact and there is an understanding between you and him.
+ Carefully you get closer and closer to the warden. When you are within range.
+ You jam your shoulder into the wardens back pushing him off the front seat of the cart and directly to the feet of the highwayman you made eye contact with.
+ The warden's death is painless and swift, not making a sound.
+ The mercenaries are still fighting, not seeing the highwayman ambush the warden. They are completely exposed to an ambush.
+ You could yell out to them, warning them of the danger. After all, they didn't see you kill the warden.
+ OR, you could remain silent and watch the battle conclude. 
 
 
 
@@ -82,7 +91,10 @@ prompt 3- steal the key to your shackles
 ****************************************************************************************
 
 
-You decide that you can't trust the warden. He approaches you and begins to thank you, however, you're not really listening. Feigning fatigue, you fall into the warden, grabbing the key and hiding it before you hit the floor. The mercenaries tens bu the warden wave them off. The warden carries you back into the depths of the cart and the journey to your prison is resumed, but this time you have a key to your shackles.
+You decide that you can't trust the warden. He approaches you and begins to thank you, however, you're not really listening.
+ Feigning fatigue, you fall into the warden, grabbing the key and hiding it before you hit the floor. The mercenaries tense but the warden wave them off.
+ The warden carries you back into the depths of the cart.
+ The journey to your prison is resumed, but this time you have a key to your shackles.
 
 
                           
@@ -92,7 +104,10 @@ You decide that you can't trust the warden. He approaches you and begins to than
     |  |    0      0  <<<     
 
 
-As you are bumping along nite falls and the warden stops the cart for the night. A mercenary is put on guard but they quickly fall asleep. This could be a chance to excape. OR you could stay where you are a nd wait for a better opportunity.
+As you are bumping along nite falls and the warden stops the cart for the night.
+ A mercenary is put on guard but they quickly fall asleep.
+ This could be a chance to excape.
+ OR you could stay where you are and wait for a better opportunity.
 
 -unlock you shackles and attempt to excape
 
@@ -103,7 +118,11 @@ As you are bumping along nite falls and the warden stops the cart for the night.
 prompt 3- wait and see what happens (for the warden)
 ****************************************************************************************
 
-You push the thievish thought of stealing the key to your shackles out of your head. After all, that's what got you here in the first place! The warden approaches you and thanks to you for your assistance. He checks your shackles, loosens them a tad (not enough to escape but enough to be more comfortable), gives you a nod and forces his horse to keep taking the cart towards your prison. 
+You push the thievish thought of stealing the key to your shackles out of your head.
+After all, that's what got you here in the first place!
+The warden approaches you and thanks to you for your assistance.
+He checks your shackles, loosens them a tad (not enough to escape but enough to be more comfortable).
+He gives you a nod and forces his horse to keep taking the cart towards your prison. 
 
 
                           
@@ -113,7 +132,11 @@ You push the thievish thought of stealing the key to your shackles out of your h
     |  |    0      0  <<<     
 
 
-You are carried for many hours down a dirt path and the scenery begins to turn into a deep forest. After a while, the warden decides to settle for the night. Hours pass and eventually the warden decides to go to sleep. This time, however, he forgets to assign a guard for night watch! This could be your chance to escape. With no night watchman, you can attempt to steal the key to your shackles from the sleeping warden, however, he might wake up. You could also just shuffle into the forest, but much louder and slower.
+You are carried for many hours down a dirt path and the scenery begins to turn into a deep forest.
+ After a while, the warden decides to settle for the night. Hours pass and eventually the warden decides to go to sleep.
+ This time, however, he forgets to assign a guard for night watch! This could be your chance to escape.
+ With no night watchman, you can attempt to steal the key to your shackles from the sleeping warden, however, he might wake up.
+ You could also just shuffle into the forest, but much louder and slower.
 
 
 -try to steal the shackles key from the sleeping warden
@@ -126,6 +149,9 @@ prompt 3- warn the mercenaries
 ****************************************************************************************
 
 
-You decide you have done enough damage to human lives and yell out to warn the mercenaries. You muster all of your sickly strength to shout "run away" at the mercenaries. They glance back form their battles and see a warden collapsed on the ground, you stand where he stood. It doesn't take a genius to understand what happened, but 
+You decide you have done enough damage to human lives and yell out to warn the mercenaries.
+ You muster all of your sickly strength to shout "run away" at the mercenaries.
+ They glance back form their battles and see a warden collapsed on the ground, you stand where he stood.
+ It doesn't take a genius to understand what happened, but 
 
 
