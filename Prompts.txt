@@ -229,5 +229,69 @@ stick to the plan
 walk back carefully holding your shackles to prevent a sound
 
 ****************************************************************************************
-prompt 4- 
+prompt 4- shuffle into the woods
 ****************************************************************************************
+
+You sneer to yourself and turn to the woods, you're no dummy.
+You look around and see a bag of supplies that was ment for the warden and his men.
+With barely and thought you pick up the bag and sling it over your back.
+In your mind you know that a 7 hour headstart will be more than enough to evade the warden and his men.
+With this thought wswimming in your head you look to the woods.
+Theres a darker path that leads deeper in the forest.
+There is a more brambled path that leads up and circles back across the road.
+What will you do...
+
+dark path
+
+brambled path
+
+****************************************************************************************
+prompt 4- Run away in your shackles-angry highwaymen
+****************************************************************************************
+You desperatly try to shuffle away. The highwayman lets you run.
+...UNtil he kicks you in the back while you try to excape.
+You tumble down a hill qathering speed. 
+ You've done enough for them that he doesn't feel bad letting you go.
+As the highwaymen fade from view you cant help but feel that the path you are on is darkening, the leaves overhead getting thicker.
+Maybe it's just youre concience, but you think you can hear wispers. 
+There looks like there is another path, quite brambly and it loops back on the road already traveled.
+However, the dark confines of the forst are almost calling to you...
+
+
+****************************************************************************************
+prompt 4- wait around-angry highwaymen
+****************************************************************************************
+
+
+
+
+****************************************************************************************
+prompt 4- run away-happy highwaymen
+****************************************************************************************
+
+YOu desperatly try to shuffle away. The highwayman raises his eyebrow and shruggs.
+ You've done enough for them that he doesn't feel bad letting you go.
+As the highwaymen fade from view you cant help but feel that the path you are on is darkening, the leaves overhead getting thicker.
+Maybe it's just youre concience, but you think you can hear wispers. 
+There looks like there is another path, quite brambly and it loops back on the road already traveled.
+However, the dark confines of the forst are almost calling to you...
+
+retreat to the brambly road
+
+seak your destiny
+
+****************************************************************************************
+prompt 4- wait around-happy highwaymen
+****************************************************************************************
+
+
+
+The highwayman gleefully cicks his heels together as he approaches you.
+"What a treat" he seems to say as he tromps forward.
+On his way he picks up the wardens key belt, your fate is literally in his hand.
+Silently, he tosses it to you.
+Gives you a nod.
+He states matter a factly "This is ours now. You may have none of it."
+He then begins to walk away.
+You unlock yourself.
+You watch the cart begin to roll away  
