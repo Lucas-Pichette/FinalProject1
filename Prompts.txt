@@ -236,7 +236,7 @@ You sneer to yourself and turn to the woods, you're no dummy.
 You look around and see a bag of supplies that was ment for the warden and his men.
 With barely and thought you pick up the bag and sling it over your back.
 In your mind you know that a 7 hour headstart will be more than enough to evade the warden and his men.
-With this thought wswimming in your head you look to the woods.
+With this thought swimming in your head you look to the woods.
 Theres a darker path that leads deeper in the forest.
 There is a more brambled path that leads up and circles back across the road.
 What will you do...
@@ -251,19 +251,35 @@ prompt 4- Run away in your shackles-angry highwaymen
 You desperatly try to shuffle away. The highwayman lets you run.
 ...UNtil he kicks you in the back while you try to excape.
 You tumble down a hill qathering speed. 
- You've done enough for them that he doesn't feel bad letting you go.
-As the highwaymen fade from view you cant help but feel that the path you are on is darkening, the leaves overhead getting thicker.
+
+As the highwaymen fade from view you cant help but feel that the path you are falling down is darkening, the leaves overhead getting thicker.
 Maybe it's just youre concience, but you think you can hear wispers. 
 There looks like there is another path, quite brambly and it loops back on the road already traveled.
 However, the dark confines of the forst are almost calling to you...
+
+Do you...
+
+seak your destiny
+
+walk to the bramble path
 
 
 ****************************************************************************************
 prompt 4- wait around-angry highwaymen
 ****************************************************************************************
+The angry highwayman approaches.
+He drags his weapon on the ground like an executioner about to lop off a convicts head.
+THis is bad news for you as you are a convict.
+You look to your left.
+You look to your right.
+You look at your options.
+Looks like you can stay and be killed,
+or roll down a cliff into the forest below.
 
+Do you...
 
-
+stay and become a lot lighter
+make like a bannana and split
 
 ****************************************************************************************
 prompt 4- run away-happy highwaymen
@@ -301,16 +317,129 @@ You turn and begin to walk down the hill.
 You begin to feel a chill as you farther into the woods.
 The forest begins to seem darker and encroch around you.
 You can almost hear wispers.
+You look back and see a lighter path, but it's covered in brambles.
+
+it seems like you have to make a decision before the forest get's too thick.
+Do you...
+
+seek your destiny
+
+go up the bramble path
 
 
 
 
 
 
+***********************************second storyline*******************888
+
+
+****************************************************************************************
+prompt 5- person statrs when sleeping -steal
+****************************************************************************************
+YOu decide to risk it. Quickly you wander up and pickup the key with your hand.
+ It feels cold like the deeds you've done to get here.
+With a guilty concience you sneak away and try the key on your locks.
+
+//this should initiate the "prompt 4- Unlock your shackles and try to excape"
+
+
+****************************************************************************************
+prompt 5- person starts when sleeping no steal
+****************************************************************************************
+you retreat into the cart back where you where.
+you dont know why you did this. 
+You are for shure going to get hanged for your past crimes.
+Maybe this is a turning point for you and your life.
+Maybe you just arent up for it.
+Either way, you go back to sleep.
+In the morning the warden walks over to you and wakes you up.
+"Time for a long day on the road" He sneers.
+Youre picked up and put back into the wagon.
+
+//this could be an opportunity to circle the story back around and just have another bandit attack.
+
+With the lone cart trooping along you eventually come into a terrible worn down town.
+It looks like there hasn't been any kind new economic activity here in years.
+People line the streets to watch you be carted in like some kind of sick parade.
+You see a noose dangling in the distance.
+Is this the end for you?
+
+Suddenly the cart is jostled.
+Looking left and right you see the crowd isnt just there for show.
+They look angry.
+Really angry.
+Your cart is shaken and tipped over.
+
+Looks like you have an opportunity, and that means you have to make a decision. 
+
+You can crawl out of the cart into the feat of the angry mob.
+You can fight with the mob against the warden
 
 
 
+****************************************************************************************
+prompt 5- go deep into woods shackled
+****************************************************************************************
+You decend into the woods. The path is easy despite your shackles.
+The forest almost seems to accept you.
+As the leaves get closer and closer to you, you begin to see a glimer in the distance.
+You quicken your pace.
+You see a war axe placed into a stump.
+its calling to you.
+You feel hesistant to approach it.
+It seems bad. Real Bad.
+You kinda want to leave.
+BUT....From the looks of it you could break your chains on this axe....
 
+do you...
+break your chains and grab the axe
+walk away
+****************************************************************************************
+prompt 5- go deep into woods ushackled
+****************************************************************************************
+You go farther into the woods and see a large war axe punched into a stump.
+It wisper dark secrets into your ear as all suspicious axes should.
+It is calling to youuuu.
+However, this could be useful in aiding your excape.
+Do you....
+Grab the axe
+run away
+
+****************************************************************************************
+prompt 5- go brambled path unshackled
+****************************************************************************************
+
+
+You decide the forest is too spooky and begin to climb the brambled path.
+It's exhasusting work. 
+But maybe it's worth it?
+
+As you climb and climb you cant help but reflect on they journey you have had so far.
+
+The moment passes and over the hills that you have been climbing you see a city in the distance.
+Low on food and with no where to go, it looks like this is your only option.
+You start to walk twords the city.
+To new beginnings.
+Hopefully your past decisions wont haunt you...
+
+****************************************************************************************
+prompt 5- go brambled path shackled
+****************************************************************************************
+you walk along the brambled path still in your shackles.
+This is the definition of misery you think to yourself.
+Suddenly you 
+
+
+****************************************************************************************
+prompt 5- get chopped in half by angry highwayman
+****************************************************************************************
+
+
+
+****************************************************************************************
+prompt 5- run away from angry highwayman
+****************************************************************************************
 
 
 
