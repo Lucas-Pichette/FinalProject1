@@ -471,19 +471,62 @@ prompt 5- run away from angry highwayman
 
 
 
+****************************************************************************************
+prompt 6- grab axe break chains
+****************************************************************************************
+the dark axe attracts you.
+you reach for it.
+it draws you in.
+you grab the axe and smash your chains.
+evil power flows through you.
+you are completely corrupted and turn into a deamon...end
 
 
 
 
+****************************************************************************************
+prompt 6- grab axe no chains
+****************************************************************************************
+the dark axe attracts you.
+you reach for it.
+it draws you in.
+you grab the axe.
+evil power flows through you.
+Your face curles into a smile a little too wide for your mouth.
+you are completely corrupted and turn into a deamon...end
 
 
 
 
+****************************************************************************************
+prompt 6- don't grab the axe
+****************************************************************************************
+A sudden change of heart sways you away from the axe.
+You begin to back away and feel the effects of the dark weapon shrink.
+It knows you have made a choice.
+You walk deeper into the woods.
+Maybe there is a weapon that isn't so evil?
+regardless, youll need something in the journey to come...end
 
 
+****************************************************************************************
+prompt 7- You can crawl out of the cart into the feat of the angry mob.
+****************************************************************************************
 
+you get crushed underfoot instantly.
+People jostle all over you. 
+Maybe they cant hear your screams or dont care.
+Ouch...end
 
+****************************************************************************************
+prompt 7- You can fight with the mob against the warden
+****************************************************************************************
 
+You decide it's time to stick it to the man!
+You raise your shackled arms and prepeare to fight.
+With the assistance of the mob you beat up the warden and the mercenaries.
+The mob frees you and you are now a champion of the people.
+Huzzah....end
 
 
 
