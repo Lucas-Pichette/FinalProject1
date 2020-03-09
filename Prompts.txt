@@ -421,19 +421,37 @@ The moment passes and over the hills that you have been climbing you see a city 
 Low on food and with no where to go, it looks like this is your only option.
 You start to walk twords the city.
 To new beginnings.
-Hopefully your past decisions wont haunt you...
+Hopefully your past decisions wont haunt you...end
 
 ****************************************************************************************
 prompt 5- go brambled path shackled
 ****************************************************************************************
 you walk along the brambled path still in your shackles.
 This is the definition of misery you think to yourself.
-Suddenly you 
+Suddenly you see a  glimmer ahead of you.
+It looks like it is a brilliant city, with bustling streets, far below.
+This must be the city you where supposed to be taken to.
+If only the cains that bound you would fall off so you could begin anew.
+Sadly, that wont happen.
+You sadly trudge ao the trail.
+Hopefully you will find santurary somethere...end
+
+
+
 
 
 ****************************************************************************************
 prompt 5- get chopped in half by angry highwayman
 ****************************************************************************************
+The highwayman reaches up and pulls a massive axe off his back.
+With one big swing he chopps you in half.
+Thats all folks.
+A fitting end to a thief don't you think...end
+
+
+
+
+
 
 
 
@@ -442,6 +460,7 @@ prompt 5- run away from angry highwayman
 ****************************************************************************************
 
 
+//link this into running down into the forest below.
 
 
 
