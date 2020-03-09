@@ -160,6 +160,17 @@ He looks very angry.
 It looks like you only have two options since fighting is out of the questions.
 
 Do you...
+  X           XX
+  XX        XXX
++--XXX----XXX----+
+|       XXX      |
+|   X       X    |
+|   XX      X    |
+|    X      X    |
+|                |
+|       XXXXXX   |
+|    XXXX     XX |
++----------------+
 
 Run away in your shackles
 
@@ -175,24 +186,22 @@ You watch the highwayman who killed the warden circle the mercenaries and make q
 The highwayman turns and approaches you.
 He has a deviant glee on your face.
 There is something unnerving about it.
++-------------------+
+|                   |
+|                   |
+|    XX         XX  |
+|   XXXX       XXXX |
+|                   |
+|                   |
+|    XX          X  |
+|     XXXX     XX   |
+|         XXXXXX    |
+|                   |
++-------------------+
 
 Do you...
 Run away in your shackles
 Wait for him to reach you
-
-****************************************************************************************
-prompt 4- Unlock your shackles and try to excape
-****************************************************************************************
-
-With a smooth click you feel your shackles pop open.
-Your sore wrists feel tender where the chains used to be and you cant help but rub them.
-Your eyes glance around.
-You see supplies that could be used for your excape.
-You could take more than you need in hopes that it cripples the wardens attempts to find you.
-You could also take just what you need to survive.
-
--starve search party
--take what you need
 
 ****************************************************************************************
 prompt 4- wait when the group falls asleep
@@ -208,10 +217,21 @@ He glances at the still asleep mercenaries.
 "There is still an opportunity to do so" he wispers, his eyes looking into the distance.
 He points to a sack of supplies he left out.
 It seems like he wants you to take it and run.
+                     XXXX
++--------------------XXXX----+
+|                  X  XX   X |
+| +--+            X  X X XX  |
+| |  +---+---+   X     X     |
+| +--+   |   |        X X    |
+|   <----+---+-------X--->X  |
+|                            |
+|                            |
+|                            |
++----------------------------+
 
-Do you excape 
+Do you excape-standard shackle excape 
 
-Or stay
+Or stay-get taken to town
 
 ****************************************************************************************
 prompt 4- try to steal the key from the sleeping warden
@@ -223,7 +243,12 @@ You can hear their breath.
 You hear a sudden inhale from somewhere in the group. 
 Have your steps awoken someone?
 what do you do?
-
+ XXXXXXXXXXXXXXXXX
+ XX                    XXXXXXXXXXX
+   XXXXXXXXX            XXX             XXXXXXX+
+           XXXX           XXX            XXX
+              XX             XXX            XXXX
+XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
 stick to the plan
 
 walk back carefully holding your shackles to prevent a sound
@@ -240,7 +265,18 @@ With this thought swimming in your head you look to the woods.
 Theres a darker path that leads deeper in the forest.
 There is a more brambled path that leads up and circles back across the road.
 What will you do...
-
++----------------+               XXXXXXXX
+|      ||        |              X     XXXX
+|      ||        |             XX    XX  X
+|      ||     +----+          XX    XX   XX
++---+-+--+---------|       XXXX     X      X
+    | |  |    |   ||      X        XX       X
+    | |  |    +----+     X         XX       XXX
+    | |  +--+-----+      X          XXX       XXXX
+    | |     |    |       X            X          XX
+    | |     |    |        X         XX            X
+    | |     |    |       XX         X
+    + +     +    +      X          X
 dark path
 
 brambled path
@@ -251,12 +287,35 @@ prompt 4- Run away in your shackles-angry highwaymen
 You desperatly try to shuffle away. The highwayman lets you run.
 ...UNtil he kicks you in the back while you try to excape.
 You tumble down a hill qathering speed. 
+  XXXXXXXXXXXXXXXXXXXX
+XXX                 XX    X
+                XXXX   XXX
+               XX       XX
+              XX     XXXXXXXX
+             XX         XX
+             X         X X
+            XX          X
+            X
+            X
+            X
+            X
 
 As the highwaymen fade from view you cant help but feel that the path you are falling down is darkening, the leaves overhead getting thicker.
 Maybe it's just youre concience, but you think you can hear wispers. 
 There looks like there is another path, quite brambly and it loops back on the road already traveled.
 However, the dark confines of the forst are almost calling to you...
-
++----------------+               XXXXXXXX
+|      ||        |              X     XXXX
+|      ||        |             XX    XX  X
+|      ||     +----+          XX    XX   XX
++---+-+--+---------|       XXXX     X      X
+    | |  |    |   ||      X        XX       X
+    | |  |    +----+     X         XX       XXX
+    | |  +--+-----+      X          XXX       XXXX
+    | |     |    |       X            X          XX
+    | |     |    |        X         XX            X
+    | |     |    |       XX         X
+    + +     +    +      X          X
 Do you...
 
 seak your destiny
@@ -273,6 +332,19 @@ THis is bad news for you as you are a convict.
 You look to your left.
 You look to your right.
 You look at your options.
+  XXXXXXXXXXXXXXXXXXXX
+XXX                 XX    X
+                XXXX   XXX
+               XX       XX
+              XX     XXXXXXXX
+             XX         XX
+             X         X X
+            XX          X
+            X
+            X
+            X
+            X
+
 Looks like you can stay and be killed,
 or roll down a cliff into the forest below.
 
@@ -291,6 +363,18 @@ As the highwaymen fade from view you cant help but feel that the path you are on
 Maybe it's just youre concience, but you think you can hear wispers. 
 There looks like there is another path, quite brambly and it loops back on the road already traveled.
 However, the dark confines of the forst are almost calling to you...
++----------------+               XXXXXXXX
+|      ||        |              X     XXXX
+|      ||        |             XX    XX  X
+|      ||     +----+          XX    XX   XX
++---+-+--+---------|       XXXX     X      X
+    | |  |    |   ||      X        XX       X
+    | |  |    +----+     X         XX       XXX
+    | |  +--+-----+      X          XXX       XXXX
+    | |     |    |       X            X          XX
+    | |     |    |        X         XX            X
+    | |     |    |       XX         X
+    + +     +    +      X          X
 
 retreat to the brambly road
 
@@ -310,6 +394,15 @@ Gives you a nod.
 He states matter a factly "This is ours now. You may have none of it."
 He then begins to walk away.
 You unlock yourself.
+
+     +------+
+    ++      |      +----------+
+    |       +-+    |          |
++---+-        |    |          |
+|             +----+          |
+|       |          |          |
++-------+          +--     ---+
+
 You watch the cart begin to roll away, the higwaymen laughing happily.
 You turn and begin to walk down the hill. 
 
@@ -328,18 +421,18 @@ go up the bramble path
 
 
 
-
-
-
-***********************************second storyline*******************888
-
-
 ****************************************************************************************
 prompt 5- person statrs when sleeping -steal
 ****************************************************************************************
 YOu decide to risk it. Quickly you wander up and pickup the key with your hand.
  It feels cold like the deeds you've done to get here.
 With a guilty concience you sneak away and try the key on your locks.
+ XXXXXXXXXXXXXXXXX
+ XX                    XXXXXXXXXXX
+   XXXXXXXXX            XXX             XXXXXXX+
+           XXXX           XXX            XXX
+              XX             XXX            XXXX
+XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
 
 //this should initiate the "prompt 4- Unlock your shackles and try to excape"
 
@@ -353,6 +446,14 @@ You are for shure going to get hanged for your past crimes.
 Maybe this is a turning point for you and your life.
 Maybe you just arent up for it.
 Either way, you go back to sleep.
+
+ XXXXXXXXXXXXXXXXX
+ XX                    XXXXXXXXXXX
+   XXXXXXXXX            XXX             XXXXXXX+
+           XXXX           XXX            XXX
+              XX             XXX            XXXX
+XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
+
 In the morning the warden walks over to you and wakes you up.
 "Time for a long day on the road" He sneers.
 Youre picked up and put back into the wagon.
@@ -370,6 +471,16 @@ Looking left and right you see the crowd isnt just there for show.
 They look angry.
 Really angry.
 Your cart is shaken and tipped over.
+                        XXXX
+                        XXXXX
+   +---------------+ X   XX
+   |               | XXXXXX
+ XXXX              |     XXX
+XX | XX          XXXX    X XXX
+X  +--X---------XX-+ X   X    X
+XX   XX         X    X
+ XXXXX           XXXXX
+
 
 Looks like you have an opportunity, and that means you have to make a decision. 
 
@@ -395,6 +506,17 @@ BUT....From the looks of it you could break your chains on this axe....
 do you...
 break your chains and grab the axe
 walk away
+     +
+     |
+     | X
+   X |  X
+  X  |  XX       +------------+
+  XXX|XXXX       |            |
++------XXX       | +------->  |
+|      X|        |            |
+|       |        +------------+
++-------+
+
 ****************************************************************************************
 prompt 5- go deep into woods ushackled
 ****************************************************************************************
@@ -405,6 +527,16 @@ However, this could be useful in aiding your excape.
 Do you....
 Grab the axe
 run away
+     +
+     |
+     | X
+   X |  X
+  X  |  XX       +------------+
+  XXX|XXXX       |            |
++------XXX       | +------->  |
+|      X|        |            |
+|       |        +------------+
++-------+
 
 ****************************************************************************************
 prompt 5- go brambled path unshackled
@@ -423,6 +555,17 @@ You start to walk twords the city.
 To new beginnings.
 Hopefully your past decisions wont haunt you...end
 
+                       X
+                      X X
+                     X    X
+    XXX             X      X
+   X  X X           XXXXXXXXX
+  X    X            X       X
+ X      X           X     XXX
+ X       X          X     X X
+X         XXXXXXXXXXXXXXXXXXXX
+
+
 ****************************************************************************************
 prompt 5- go brambled path shackled
 ****************************************************************************************
@@ -437,6 +580,15 @@ You sadly trudge ao the trail.
 Hopefully you will find santurary somethere...end
 
 
+                       X
+                      X X
+                     X    X
+    XXX             X      X
+   X  X X           XXXXXXXXX
+  X    X            X       X
+ X      X           X     XXX
+ X       X          X     X X
+X         XXXXXXXXXXXXXXXXXXXX
 
 
 
@@ -450,11 +602,19 @@ A fitting end to a thief don't you think...end
 
 
 
-
-
-
-
-
+         XXXX
+     XXX  X XX
+    X X    XXX
+    X     X X    X
+    XXXX   X  XXX
+            XXX
+ XXX   X   X
+   XXXX   XX
+      X   X
+      X  XX
+      X   X
+XXXXXX    XX XXX
+               
 ****************************************************************************************
 prompt 5- run away from angry highwayman
 ****************************************************************************************
@@ -482,6 +642,18 @@ evil power flows through you.
 you are completely corrupted and turn into a deamon...end
 
 
+       XX   X
+      X      X
+      XX    XX
+      XXXXXXXX
+      XX  X XX
+      X   X  X
+X      X  X X
+XX        X
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+          X
+          X
 
 
 ****************************************************************************************
@@ -494,6 +666,18 @@ you grab the axe.
 evil power flows through you.
 Your face curles into a smile a little too wide for your mouth.
 you are completely corrupted and turn into a deamon...end
+       XX   X
+      X      X
+      XX    XX
+      XXXXXXXX
+      XX  X XX
+      X   X  X
+X      X  X X
+XX        X
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+          X
+          X
 
 
 
@@ -507,6 +691,22 @@ It knows you have made a choice.
 You walk deeper into the woods.
 Maybe there is a weapon that isn't so evil?
 regardless, youll need something in the journey to come...end
+                              XXX      XXXXXXX
+                 XXX        XXX XXXX   XX     XXXX
+ XXXXXX        XXX XXXX   XXX      X    X        X
+XX    X        X      XX XX       XX    X       XX
+X              X       XXX       XX    XX      XX
+XX     XXXX    XX      X XXXXXXXXX     X     XXX
+ XX      X      XXXX XX                 XXXXXX
+   XXXXXXX         XXX
+
+           XXXXXX          XXX         XXXXXXXX
+                XXXXX     XX  XX       X    XX
+               XX        XX    XX      X XXXX
+           X  XX         XX    XX      X XX XXX
+           XXXX           XXXXXX      XX      XX
+                                       XX     XX
+                                        XXXXXX
 
 
 ****************************************************************************************
@@ -517,6 +717,15 @@ you get crushed underfoot instantly.
 People jostle all over you. 
 Maybe they cant hear your screams or dont care.
 Ouch...end
+         XX
+         XX
+         XX
+         XXXXX
+
+  X  X   +----+
+ XXXXXXXX| XX |
+XX   X   +----+
+
 
 ****************************************************************************************
 prompt 7- You can fight with the mob against the warden
@@ -527,6 +736,12 @@ You raise your shackled arms and prepeare to fight.
 With the assistance of the mob you beat up the warden and the mercenaries.
 The mob frees you and you are now a champion of the people.
 Huzzah....end
+    X   X   X
+  XXXX X X  XX
+XX    X   XX XX
+X             X
+X             X
+XXXXXXXXXXXXXXX
 
 
 
