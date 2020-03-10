@@ -10,7 +10,15 @@
 **********************************************************
 
 prompt 1:
-	Thunder cracks across the sky as the highwaymen circle the cart you are held in.  Their swords gleam like their smiles, both dripping with anticipation...and is that blood? The warden who holds the keys, both literally and figuratively to your escape isn't scared. The two mercenaries he's hired just for this circumstance are readying their weapons with silent calculability that reverberates fear. The battle is set and the time for talking is over. You look down. Your shackles are heavy, which could work to your advantage. You can see the shadow of a highwayman on the tarp that covers the cart you ride in. With any luck at all, you could jump out and surprise him, giving the warden an advantage. However, both the warden and the mercenaries have their back to you, and a konniving chap like yourself could be freed by the highwaymen if you gave assistance...
+	Thunder cracks across the sky as the highwaymen circle the cart you are held in.  
+    Their swords gleam like their smiles, both dripping with anticipation...and is that blood? 
+    The warden who holds the keys, both literally and figuratively to your escape isn't scared. 
+    The two mercenaries he's hired just for this circumstance are readying their weapons with silent calculability that reverberates fear. 
+    The battle is set and the time for talking is over. You look down. Your shackles are heavy, which could work to your advantage. 
+    You can see the shadow of a highwayman on the tarp that covers the cart you ride in. 
+    With any luck at all, you could jump out and surprise him, giving the warden an advantage. 
+    However, both the warden and the mercenaries have their back to you, 
+    and a konniving chap like yourself could be freed by the highwaymen if you gave assistance...
 -protect the cart
 
 -ambush the warden
@@ -26,10 +34,11 @@ prompt 1:
 
 
 ****************************************************************************************
-prompt 2-protect the cart
+prompt 2a-protect the cart
 ****************************************************************************************
 Your resolve hardens. It's time to help the warden and the mercenaries since they are law-abiding citizens.
-With the poise of a sickly cat, you launch yourself through the canvas...Directly onto the head of a passing highwayman! With the grace of a sickly person still bound in a set of shackles and a modest amount of chains, you conk the highwayman on the head. 
+With the poise of a sickly cat, you launch yourself through the canvas...Directly onto the head of a passing highwayman! 
+With the grace of a sickly person still bound in a set of shackles and a modest amount of chains, you conk the highwayman on the head. 
 
 
 
@@ -49,7 +58,7 @@ The warden approaches you his face looks surprised, maybe you'll get your freedo
 -Wait and see what happens
 
 ****************************************************************************************
-prompt 2-ambush the warden
+prompt 2b-ambush the warden
 ****************************************************************************************
 
 
@@ -80,14 +89,14 @@ With deviant glee you creep towards the warden, the dragging of your chains on t
 
 -warn the mercenaries
 
--shut your mouth
+-shut your mouth (Don't warn the mercenaries)
 
 
 
 
 
 ****************************************************************************************
-prompt 3- steal the key to your shackles
+prompt 3a- steal the key to your shackles
 ****************************************************************************************
 
 
@@ -97,7 +106,6 @@ You decide that you can't trust the warden. He approaches you and begins to than
  The journey to your prison is resumed, but this time you have a key to your shackles.
 
 
-                          
       o      xxxxxx <<<<
      -|-     =k o = <<<<<<<
    j====-----\====/ <<<<<<<<<
@@ -115,7 +123,7 @@ As you are bumping along nite falls and the warden stops the cart for the night.
 
 
 ****************************************************************************************
-prompt 3- wait and see what happens (for the warden)
+prompt 3b- wait and see what happens (for the warden)
 ****************************************************************************************
 
 You push the thievish thought of stealing the key to your shackles out of your head.
@@ -125,7 +133,6 @@ He checks your shackles, loosens them a tad (not enough to escape but enough to 
 He gives you a nod and forces his horse to keep taking the cart towards your prison. 
 
 
-                          
       o      xxxxxx <<<<
      -|-     =  o = <<<<<<<
    j====-----\====/ <<<<<<<<<
@@ -145,7 +152,7 @@ You are carried for many hours down a dirt path and the scenery begins to turn i
 
 
 ****************************************************************************************
-prompt 3- warn the mercenaries
+prompt 3c- warn the mercenaries
 ****************************************************************************************
 
 
@@ -155,11 +162,10 @@ They glance back form their battles and see a warden collapsed on the ground, yo
 It doesn't take a genius to understand what happened, but the mercs are still thankful.
 They run off into the woods.
 It looks like the highwayman who assisted in killing the warden is dripping with rage.
-He is walking twords you. 
+He is walking towards you. 
 He looks very angry.
 It looks like you only have two options since fighting is out of the questions.
 
-Do you...
   X           XX
   XX        XXX
 +--XXX----XXX----+
@@ -178,7 +184,7 @@ Wait for him to reach you
 
 
 ****************************************************************************************
-prompt 3- don't warn the mercenaries
+prompt 3d- don't warn the mercenaries
 ****************************************************************************************
 
 If you're going to be bad might as well be the worst right?
@@ -199,12 +205,11 @@ There is something unnerving about it.
 |                   |
 +-------------------+
 
-Do you...
 Run away in your shackles
 Wait for him to reach you
 
 ****************************************************************************************
-prompt 4- wait when the group falls asleep
+prompt 4a- wait when the group falls asleep
 ****************************************************************************************
 
 With key in hand you sit there, contemplating life and your decicions. 
@@ -234,7 +239,7 @@ Do you excape-standard shackle excape
 Or stay-get taken to town
 
 ****************************************************************************************
-prompt 4- try to steal the key from the sleeping warden
+prompt 4b- try to steal the key from the sleeping warden
 ****************************************************************************************
 
 You creep up to the sleeping warden.
@@ -242,10 +247,9 @@ your heartbeat is the only thing you can hear as you get closer and closer.
 You can hear their breath.
 You hear a sudden inhale from somewhere in the group. 
 Have your steps awoken someone?
-what do you do?
  XXXXXXXXXXXXXXXXX
  XX                    XXXXXXXXXXX
-   XXXXXXXXX            XXX             XXXXXXX+
+   XXXXXXXXX            XXX             XXXXXXX
            XXXX           XXX            XXX
               XX             XXX            XXXX
 XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
@@ -254,7 +258,7 @@ stick to the plan
 walk back carefully holding your shackles to prevent a sound
 
 ****************************************************************************************
-prompt 4- shuffle into the woods
+prompt 4c- shuffle into the woods
 ****************************************************************************************
 
 You sneer to yourself and turn to the woods, you're no dummy.
@@ -264,7 +268,6 @@ In your mind you know that a 7 hour headstart will be more than enough to evade 
 With this thought swimming in your head you look to the woods.
 Theres a darker path that leads deeper in the forest.
 There is a more brambled path that leads up and circles back across the road.
-What will you do...
 +----------------+               XXXXXXXX
 |      ||        |              X     XXXX
 |      ||        |             XX    XX  X
@@ -282,10 +285,10 @@ dark path
 brambled path
 
 ****************************************************************************************
-prompt 4- Run away in your shackles-angry highwaymen
+prompt 4d- Run away in your shackles-angry highwaymen
 ****************************************************************************************
 You desperatly try to shuffle away. The highwayman lets you run.
-...UNtil he kicks you in the back while you try to excape.
+...Until he kicks you in the back while you try to excape.
 You tumble down a hill qathering speed. 
   XXXXXXXXXXXXXXXXXXXX
 XXX                 XX    X
@@ -304,19 +307,6 @@ As the highwaymen fade from view you cant help but feel that the path you are fa
 Maybe it's just youre concience, but you think you can hear wispers. 
 There looks like there is another path, quite brambly and it loops back on the road already traveled.
 However, the dark confines of the forst are almost calling to you...
-+----------------+               XXXXXXXX
-|      ||        |              X     XXXX
-|      ||        |             XX    XX  X
-|      ||     +----+          XX    XX   XX
-+---+-+--+---------|       XXXX     X      X
-    | |  |    |   ||      X        XX       X
-    | |  |    +----+     X         XX       XXX
-    | |  +--+-----+      X          XXX       XXXX
-    | |     |    |       X            X          XX
-    | |     |    |        X         XX            X
-    | |     |    |       XX         X
-    + +     +    +      X          X
-Do you...
 
 seak your destiny
 
@@ -324,7 +314,7 @@ walk to the bramble path
 
 
 ****************************************************************************************
-prompt 4- wait around-angry highwaymen
+prompt 4e- wait around-angry highwaymen
 ****************************************************************************************
 The angry highwayman approaches.
 He drags his weapon on the ground like an executioner about to lop off a convicts head.
@@ -332,113 +322,24 @@ THis is bad news for you as you are a convict.
 You look to your left.
 You look to your right.
 You look at your options.
-  XXXXXXXXXXXXXXXXXXXX
-XXX                 XX    X
-                XXXX   XXX
-               XX       XX
-              XX     XXXXXXXX
-             XX         XX
-             X         X X
-            XX          X
-            X
-            X
-            X
-            X
-
 Looks like you can stay and be killed,
 or roll down a cliff into the forest below.
-
-Do you...
 
 stay and become a lot lighter
 make like a bannana and split
 
 ****************************************************************************************
-prompt 4- run away-happy highwaymen
+prompt 5a- person statrs when sleeping -steal
 ****************************************************************************************
-
-YOu desperatly try to shuffle away. The highwayman raises his eyebrow and shruggs.
- You've done enough for them that he doesn't feel bad letting you go.
-As the highwaymen fade from view you cant help but feel that the path you are on is darkening, the leaves overhead getting thicker.
-Maybe it's just youre concience, but you think you can hear wispers. 
-There looks like there is another path, quite brambly and it loops back on the road already traveled.
-However, the dark confines of the forst are almost calling to you...
-+----------------+               XXXXXXXX
-|      ||        |              X     XXXX
-|      ||        |             XX    XX  X
-|      ||     +----+          XX    XX   XX
-+---+-+--+---------|       XXXX     X      X
-    | |  |    |   ||      X        XX       X
-    | |  |    +----+     X         XX       XXX
-    | |  +--+-----+      X          XXX       XXXX
-    | |     |    |       X            X          XX
-    | |     |    |        X         XX            X
-    | |     |    |       XX         X
-    + +     +    +      X          X
-
-retreat to the brambly road
-
-seak your destiny
-
-****************************************************************************************
-prompt 4- wait around-happy highwaymen
-****************************************************************************************
-
-
-
-The highwayman gleefully cicks his heels together as he approaches you.
-"What a treat" he seems to say as he tromps forward.
-On his way he picks up the wardens key belt, your fate is literally in his hand.
-Silently, he tosses it to you.
-Gives you a nod.
-He states matter a factly "This is ours now. You may have none of it."
-He then begins to walk away.
-You unlock yourself.
-
-     +------+
-    ++      |      +----------+
-    |       +-+    |          |
-+---+-        |    |          |
-|             +----+          |
-|       |          |          |
-+-------+          +--     ---+
-
-You watch the cart begin to roll away, the higwaymen laughing happily.
-You turn and begin to walk down the hill. 
-
-
-You begin to feel a chill as you farther into the woods.
-The forest begins to seem darker and encroch around you.
-You can almost hear wispers.
-You look back and see a lighter path, but it's covered in brambles.
-
-it seems like you have to make a decision before the forest get's too thick.
-Do you...
-
-seek your destiny
-
-go up the bramble path
-
-
-
-****************************************************************************************
-prompt 5- person statrs when sleeping -steal
-****************************************************************************************
-YOu decide to risk it. Quickly you wander up and pickup the key with your hand.
+You decide to risk it. Quickly you wander up and pickup the key with your hand.
  It feels cold like the deeds you've done to get here.
 With a guilty concience you sneak away and try the key on your locks.
- XXXXXXXXXXXXXXXXX
- XX                    XXXXXXXXXXX
-   XXXXXXXXX            XXX             XXXXXXX+
-           XXXX           XXX            XXX
-              XX             XXX            XXXX
-XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
-
-//this should initiate the "prompt 4- Unlock your shackles and try to excape"
-
+ Someone comes whistling and tells you that you should not have done this.
+ He stabs the key into your eye and kills you... 
+ //End
 
 ****************************************************************************************
-prompt 5- person starts when sleeping no steal
+prompt 5b- person starts when sleeping no steal
 ****************************************************************************************
 you retreat into the cart back where you where.
 you dont know why you did this. 
@@ -447,18 +348,9 @@ Maybe this is a turning point for you and your life.
 Maybe you just arent up for it.
 Either way, you go back to sleep.
 
- XXXXXXXXXXXXXXXXX
- XX                    XXXXXXXXXXX
-   XXXXXXXXX            XXX             XXXXXXX+
-           XXXX           XXX            XXX
-              XX             XXX            XXXX
-XXXXXXXXXXXXXXXXXX     XXXXXXXXXX        XXXXXXXX
-
 In the morning the warden walks over to you and wakes you up.
 "Time for a long day on the road" He sneers.
 Youre picked up and put back into the wagon.
-
-//this could be an opportunity to circle the story back around and just have another bandit attack.
 
 With the lone cart trooping along you eventually come into a terrible worn down town.
 It looks like there hasn't been any kind new economic activity here in years.
@@ -490,7 +382,7 @@ You can fight with the mob against the warden
 
 
 ****************************************************************************************
-prompt 5- go deep into woods shackled
+prompt 5c- go deep into woods shackled
 ****************************************************************************************
 You decend into the woods. The path is easy despite your shackles.
 The forest almost seems to accept you.
@@ -503,7 +395,7 @@ It seems bad. Real Bad.
 You kinda want to leave.
 BUT....From the looks of it you could break your chains on this axe....
 
-do you...
+
 break your chains and grab the axe
 walk away
      +
@@ -518,28 +410,7 @@ walk away
 +-------+
 
 ****************************************************************************************
-prompt 5- go deep into woods ushackled
-****************************************************************************************
-You go farther into the woods and see a large war axe punched into a stump.
-It wisper dark secrets into your ear as all suspicious axes should.
-It is calling to youuuu.
-However, this could be useful in aiding your excape.
-Do you....
-Grab the axe
-run away
-     +
-     |
-     | X
-   X |  X
-  X  |  XX       +------------+
-  XXX|XXXX       |            |
-+------XXX       | +------->  |
-|      X|        |            |
-|       |        +------------+
-+-------+
-
-****************************************************************************************
-prompt 5- go brambled path unshackled
+prompt 5e- go brambled path unshackled
 ****************************************************************************************
 
 
@@ -553,7 +424,8 @@ The moment passes and over the hills that you have been climbing you see a city 
 Low on food and with no where to go, it looks like this is your only option.
 You start to walk twords the city.
 To new beginnings.
-Hopefully your past decisions wont haunt you...end
+Hopefully your past decisions wont haunt you...
+//End
 
                        X
                       X X
@@ -567,7 +439,7 @@ X         XXXXXXXXXXXXXXXXXXXX
 
 
 ****************************************************************************************
-prompt 5- go brambled path shackled
+prompt 5f- go brambled path shackled
 ****************************************************************************************
 you walk along the brambled path still in your shackles.
 This is the definition of misery you think to yourself.
@@ -577,28 +449,19 @@ This must be the city you where supposed to be taken to.
 If only the cains that bound you would fall off so you could begin anew.
 Sadly, that wont happen.
 You sadly trudge ao the trail.
-Hopefully you will find santurary somethere...end
-
-
-                       X
-                      X X
-                     X    X
-    XXX             X      X
-   X  X X           XXXXXXXXX
-  X    X            X       X
- X      X           X     XXX
- X       X          X     X X
-X         XXXXXXXXXXXXXXXXXXXX
+Hopefully you will find santurary somethere...
+//End
 
 
 
 ****************************************************************************************
-prompt 5- get chopped in half by angry highwayman
+prompt 5g- get chopped in half by angry highwayman
 ****************************************************************************************
 The highwayman reaches up and pulls a massive axe off his back.
 With one big swing he chopps you in half.
 Thats all folks.
-A fitting end to a thief don't you think...end
+A fitting end to a thief don't you think...
+//End
 
 
 
@@ -616,30 +479,31 @@ A fitting end to a thief don't you think...end
 XXXXXX    XX XXX
                
 ****************************************************************************************
-prompt 5- run away from angry highwayman
+prompt 5h- run away from angry highwayman
 ****************************************************************************************
 
 
-//link this into running down into the forest below.
-
-
-
-
-
+The highwayman yells to you. Telling you how slow you are.
+You run, and run, and run.
+You hear his yells getting louder.
+You can feel his aggression.
+He catches up to you...
+//End...
 
 
 
 
 
 ****************************************************************************************
-prompt 6- grab axe break chains
+prompt 6a- grab axe break chains
 ****************************************************************************************
 the dark axe attracts you.
 you reach for it.
 it draws you in.
 you grab the axe and smash your chains.
 evil power flows through you.
-you are completely corrupted and turn into a deamon...end
+you are completely corrupted and turn into a deamon...
+//End
 
 
        XX   X
@@ -655,42 +519,16 @@ XXXXXXXXXXXX
           X
           X
 
-
 ****************************************************************************************
-prompt 6- grab axe no chains
-****************************************************************************************
-the dark axe attracts you.
-you reach for it.
-it draws you in.
-you grab the axe.
-evil power flows through you.
-Your face curles into a smile a little too wide for your mouth.
-you are completely corrupted and turn into a deamon...end
-       XX   X
-      X      X
-      XX    XX
-      XXXXXXXX
-      XX  X XX
-      X   X  X
-X      X  X X
-XX        X
-XXXXXXXXXXXX
-XXXXXXXXXXXX
-          X
-          X
-
-
-
-
-****************************************************************************************
-prompt 6- don't grab the axe
+prompt 6b- don't grab the axe
 ****************************************************************************************
 A sudden change of heart sways you away from the axe.
 You begin to back away and feel the effects of the dark weapon shrink.
 It knows you have made a choice.
 You walk deeper into the woods.
 Maybe there is a weapon that isn't so evil?
-regardless, youll need something in the journey to come...end
+regardless, youll need something in the journey to come...
+//End
                               XXX      XXXXXXX
                  XXX        XXX XXXX   XX     XXXX
  XXXXXX        XXX XXXX   XXX      X    X        X
@@ -699,7 +537,6 @@ X              X       XXX       XX    XX      XX
 XX     XXXX    XX      X XXXXXXXXX     X     XXX
  XX      X      XXXX XX                 XXXXXX
    XXXXXXX         XXX
-
            XXXXXX          XXX         XXXXXXXX
                 XXXXX     XX  XX       X    XX
                XX        XX    XX      X XXXX
@@ -710,32 +547,34 @@ XX     XXXX    XX      X XXXXXXXXX     X     XXX
 
 
 ****************************************************************************************
-prompt 7- You can crawl out of the cart into the feat of the angry mob.
+prompt 7a- You can crawl out of the cart into the feat of the angry mob.
 ****************************************************************************************
 
 you get crushed underfoot instantly.
 People jostle all over you. 
 Maybe they cant hear your screams or dont care.
-Ouch...end
+Ouch...
+//End
          XX
          XX
          XX
          XXXXX
-
+      x
   X  X   +----+
  XXXXXXXX| XX |
 XX   X   +----+
 
 
 ****************************************************************************************
-prompt 7- You can fight with the mob against the warden
+prompt 7b- You can fight with the mob against the warden
 ****************************************************************************************
 
 You decide it's time to stick it to the man!
 You raise your shackled arms and prepeare to fight.
 With the assistance of the mob you beat up the warden and the mercenaries.
 The mob frees you and you are now a champion of the people.
-Huzzah....end
+Huzzah....
+//End
     X   X   X
   XXXX X X  XX
 XX    X   XX XX
